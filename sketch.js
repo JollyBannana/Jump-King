@@ -227,7 +227,7 @@ function setupCanvas() {
     canvas = createCanvas(1200, 950);
     canvas.parent('canvas');
     width = canvas.width;
-    height = canvas.height - 50;
+    height = canvas.height - 500;
 }
 
 
